@@ -1,0 +1,22 @@
+/* 
+  LocalizableStrings.strings
+  ProDonor
+
+  Created by Varun on 30/08/16.
+  Copyright © 2016 DC. All rights reserved.
+*/
+
+
+"AlertTitle"="Alert";
+"SuccessTitle"="Success";
+"SettingsTitle"="Settings";
+"CancelTitle"="Cancel";
+"Ok"="OK";
+"RequestSentSuccess"="Your request for contact details was sent successfully";
+"RequestSentError"="There was an error in sending your request. Try again later.";
+"NetworkNotAvaliable"="It seems that your device is not connected to the internet, Connect it and try again later";
+"LocationAuthorizationAlert"="The app requires access to your current location to provide you donor locations, make appropriate changes in settings";
+"LocationAuthorizationBackgroundAlert"="ProDonor requires access to location services, select 'Always' in settings";
+"LocationAuthorizationRestrictedAlert"="ProDonor requires 'Always' access to location services, select 'Always' in settings";
+"LocationAuthorizationDeniedAlert"="ProDonor's access to location services is not enabled, select 'Always' in settings";
+"UserNotRegistered"="You must be Register in order to request a donor";
